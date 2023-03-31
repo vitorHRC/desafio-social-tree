@@ -1,0 +1,154 @@
+* {
+    margin: 0%;
+    
+}
+
+body {
+
+    width: 1440px;
+    height: 1024px;
+    background-color: #1e1d1f;
+    font-family: 'Beth Ellen', cursive;
+    font-family: 'Emilys Candy', cursive;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.perfil {
+    border-radius: 50%;
+    border: 3px solid #BB99DD;
+    box-sizing: border-box;
+    padding: 5px;
+    position: absolute;
+    width: 213px;
+    height: 213px;
+    left: 612px;
+    top: 201px;
+}
+
+
+p {
+    position: absolute;
+    width: 99px;
+    height: 24px;
+    left: 669px;
+    top: 429px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #BB99DD;
+    
+}
+
+a {
+    text-align: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #BB99DD;
+    padding-top: 8px;
+
+    
+}
+
+.a1 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 486px;
+
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+}
+
+.a2 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 554px;
+
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+   
+}
+
+.a3 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 616px;
+
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+    
+}
+
+.a4 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 681px;
+
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+
+}
+
+.git {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 813px;
+    top: 798px;
+}
+
+.linkedin {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 760px;
+    top: 798px;
+}
+
+.insta {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 707px;
+    top: 798px;
+}
+
+.twitch {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 654px;
+    top: 798px;
+}
+
+.twitter {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 601px;
+    top: 798px;
+}
+
